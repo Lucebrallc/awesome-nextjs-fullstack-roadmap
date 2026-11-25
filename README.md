@@ -382,6 +382,7 @@ export async function generateMetadata({
 - [Vercel Templates](https://vercel.com/templates) — Production-ready Next.js starters.
 - [next-intl](https://next-intl-docs.vercel.app/) — Internationalization for Next.js.
 - [Prisma Documentation](https://www.prisma.io/docs) — Type-safe database access.
+- [Observe AI crawler traffic with the Next.js request proxy](https://webdecoy.com/blog/see-bots-ai-crawlers-nextjs/) — Walk through the App Router request boundary and run the linked open-source demo to compare local request signals with site-scoped reporting.
 
 ### Accredited Courses with Verifiable Certificates
 - 🌐 **Web Development Foundations:** [Build a Professional Website](https://www.lucebra.com/courses/blogger-make-a-professional-website-for-free-with-no-coding) — HTML, CSS, and web fundamentals with verifiable certificate.
